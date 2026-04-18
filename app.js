@@ -16,13 +16,15 @@ const db = getFirestore(app);
 
 // ── WORDS ──
 const WORDS = [
-  "Stapler","Curtain","Faucet","Blanket","Ladder","Napkin","Shovel","Plunger",
-  "Funnel","Wrench","Dustpan","Shutter","Suitcase","Hanger","Pitcher","Muffler",
-  "Grater","Lantern","Hamper","Locket","Binder","Spatula","Trowel","Gutter",
-  "Thimble","Pulley","Socket","Gasket","Rivet","Cistern","Gimbal","Ferrule",
-  "Spigot","Clevis","Bushing","Bracket","Flange","Turnip","Colander","Tarpaulin",
-  "Crowbar","Doorknob","Mailbox","Clipboard","Casserole","Flywheel","Inkwell",
-  "Mousetrap","Periscope","Sundial","Thermos","Washtub","Yardstick","Zipper"
+  "Grapadora","Cortina","Grifo","Manta","Escalera","Servilleta","Pala","Desatascador",
+  "Embudo","Recogedor","Persiana","Maleta","Percha","Jarra","Rallador",
+  "Farol","Cesto","Carpeta","Espatula","Canalon","Dedal","Polea","Enchufe",
+  "Remache","Cisterna","Bisagra","Tornillo","Gancho","Arandela","Soporte",
+  "Nabo","Colador","Lona","Palanca","Pomo","Buzon","Portapapeles","Cazuela",
+  "Tintero","Ratonera","Termo","Barreno","Cremallera","Mortero",
+  "Cucharon","Rodillo","Taladro","Manguera","Maceta","Soplete",
+  "Alicates","Cepillo","Lejia","Exprimidor","Paraguas","Tapon","Bascula",
+  "Cacerola","Chincheta","Destornillador","Espumadera","Alcachofa"
 ];
 
 // ── STATE ──
