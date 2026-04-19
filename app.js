@@ -24,7 +24,25 @@ const WORDS = [
   "Tintero","Ratonera","Termo","Barreno","Cremallera","Mortero",
   "Cucharon","Rodillo","Taladro","Manguera","Maceta","Soplete",
   "Alicates","Cepillo","Lejia","Exprimidor","Paraguas","Tapon","Bascula",
-  "Cacerola","Chincheta","Destornillador","Espumadera","Alcachofa"
+  "Cacerola","Chincheta","Destornillador","Espumadera","Alcachofa",
+  "Abrelatas","Aceitera","Agujero","Alfombra","Almohada","Andamio","Anzuelo",
+  "Armario","Azucarero","Balanza","Bandeja","Banqueta","Barniz","Batidora",
+  "Bobina","Bombilla","Borrador","Brocheta","Cafetera","Candelabro",
+  "Carretilla","Cerradura","Colgador","Compas","Corcholatero","Cornisa",
+  "Cubitera","Desinfectante","Dispensador","Drenaje","Embarcadero",
+  "Escalon","Escoba","Escoplo","Escuadra","Estanteria","Fibra",
+  "Fregona","Fumigador","Garrafon","Gozne","Guadana","Hervidor",
+  "Imbornala","Interruptor","Jabonera","Jardinera","Lija","Linterna",
+  "Llave allen","Maletero","Manivela","Maquinilla","Mazo","Membrana",
+  "Mondador","Mosquitera","Nivel","Olla","Orinal","Palillero","Pastilla",
+  "Peldano","Pepino","Perforadora","Picaporte","Pincel","Pinza",
+  "Pipeta","Pistola","Plancha","Platillo","Plomada","Portamonedas",
+  "Probeta","Punzon","Regadera","Rejilla","Remolque","Repisa",
+  "Rollo","Sacapuntas","Sartan","Sellador","Serrucho","Sifon",
+  "Silbato","Soplador","Sujetador","Tablero","Tamiz","Tarugo",
+  "Tenaza","Tenedor","Tijeras","Tirador","Toallero","Tobera",
+  "Toldo","Trapo","Trinche","Trompeta","Tubo","Tulipa","Tuerca",
+  "Varilla","Ventosa","Vertedor","Virador","Visillo","Zocalo"
 ];
 
 // ── STATE ──
